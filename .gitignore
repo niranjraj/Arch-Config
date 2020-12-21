@@ -1,0 +1,16 @@
+.bash_history
+.bash_logout
+.cache/
+Desktop/
+Downloads/
+.local/
+.npm/
+timeshift/
+.viminfo
+.Xauthority
+yay-git/
+.pki/
+.gnupg/
+.mozilla/
+.bash_profile
+.bashrc
