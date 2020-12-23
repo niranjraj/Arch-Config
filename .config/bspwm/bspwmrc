@@ -17,11 +17,14 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 #Colors
-bspc config active_border_color \#665c54
-bspc config focused_border_color \#665c54
+bspc config active_border_color \#d4be98
+bspc config focused_border_color \#d4be98
 bspc config normal_border_color \#363836
 
 bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Brave-browser desktop='^2'
+bspc rule -a Pavucontrol state=floating rectangle=1000x750+450+70
+bspc rule -a firefox desktop='^2'
 bspc rule -a Chromium desktop='^2'
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on

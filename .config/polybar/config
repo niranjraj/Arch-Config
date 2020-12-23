@@ -67,7 +67,7 @@ override-redirect = true
 
 modules-left = bspwm mod 
 modules-center = xwindow
-modules-right = cpu temperature  battery pulseaudio wlan eth  date
+modules-right = cpu temperature  battery pulseaudio wlan eth  date powermenu 
 
 tray-position = right
 tray-detached = false
