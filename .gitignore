@@ -13,7 +13,6 @@ yay-git/
 .gnupg/
 .mozilla/
 .bash_profile
-.bashrc
 .config/BraveSoftware/
 .config/configstore/
 .config/dconf/
@@ -29,3 +28,7 @@ dmenu/
 .vim/
 .vscode/
 projects/
+Pictures/
+.config/deepin/
+.deepin-screen-recorder/
+
